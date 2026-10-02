@@ -1,0 +1,26 @@
+user_id,name,email,industry,role,company_size,region,signup_date
+U001,Ava Chen,ava.chen@nexa.io,Technology,Data Analyst,201-1000,North America,2024-01-12
+U002,Marcus Webb,m.webb@healthspan.org,Healthcare,Operations Lead,1001-5000,North America,2024-02-03
+U003,Priya Nair,priya.n@finora.com,Finance,Risk Analyst,5000+,Europe,2024-01-28
+U004,Diego Alvarez,diego.a@edulearn.edu,Education,Instructor,51-200,Latin America,2024-03-11
+U005,Sofia Berg,s.berg@retailhub.se,Retail,Merchandiser,201-1000,Europe,2024-02-19
+U006,Jordan Lee,j.lee@cloudworks.com,Technology,Software Engineer,1001-5000,North America,2024-01-05
+U007,Amira Hassan,amira.h@medcore.ae,Healthcare,Clinical Researcher,201-1000,Middle East,2024-03-02
+U008,Tomás Silva,t.silva@bancosol.br,Finance,Portfolio Manager,5000+,Latin America,2024-02-14
+U009,Hannah Okonkwo,h.okonkwo@campus.uk,Education,Academic Admin,201-1000,Europe,2024-01-22
+U010,Liam O'Brien,liam.ob@shopwave.ie,Retail,Customer Insights,51-200,Europe,2024-03-18
+U011,Mei Lin,mei.lin@qubit.ai,Technology,Product Manager,51-200,Asia Pacific,2024-02-08
+U012,Carlos Mendes,c.mendes@careplus.pt,Healthcare,Nurse Manager,201-1000,Europe,2024-03-25
+U013,Elena Petrova,e.petrova@capitalyx.ru,Finance,Compliance Officer,1001-5000,Europe,2024-01-17
+U014,Noah Kim,noah.kim@learnly.kr,Education,Curriculum Designer,11-50,Asia Pacific,2024-02-27
+U015,Rachel Torres,r.torres@boutique.us,Retail,Store Manager,11-50,North America,2024-03-09
+U016,Samir Patel,s.patel@devforge.in,Technology,ML Engineer,201-1000,Asia Pacific,2024-01-30
+U017,Grace Nwosu,g.nwosu@wellness.ng,Healthcare,Health Informaticist,51-200,Africa,2024-02-21
+U018,Oliver Grant,o.grant@hedgefund.uk,Finance,Quant Analyst,201-1000,Europe,2024-03-05
+U019,Yuki Tanaka,y.tanaka@uni.jp,Education,Research Assistant,1001-5000,Asia Pacific,2024-01-09
+U020,Emma Dubois,e.dubois@marche.fr,Retail,Supply Planner,1001-5000,Europe,2024-02-12
+U021,Ben Carter,b.carter@stackly.io,Technology,DevOps Engineer,51-200,North America,2024-03-14
+U022,Fatima Al-Rashid,f.alrashid@clinic.sa,Healthcare,Physician,201-1000,Middle East,2024-01-25
+U023,Lucas Ferreira,l.ferreira@invest.br,Finance,Financial Advisor,51-200,Latin America,2024-02-06
+U024,Chloe Martin,c.martin@academy.ca,Education,Department Head,201-1000,North America,2024-03-21
+U025,Nina Johansson,n.johansson@nordmart.no,Retail,E-commerce Lead,1001-5000,Europe,2024-01-15

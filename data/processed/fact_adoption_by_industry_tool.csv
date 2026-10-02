@@ -1,0 +1,41 @@
+industry,tool_key,tool_name,category,active_users,total_sessions,total_hours_saved,total_cost_usd,hours_per_dollar,completion_rate
+Education,T01,ChatGPT Enterprise,Generative AI,3,25,31.96,31.5,1.015,0.8
+Education,T02,GitHub Copilot,Code Assist,2,9,10.39,7.6,1.367,0.5
+Education,T04,Notion AI,Productivity,4,21,16.74,10.0,1.674,0.667
+Education,T05,Midjourney,Image Generation,3,18,17.96,25.5,0.704,0.75
+Education,T07,Microsoft Copilot,Productivity,3,14,6.94,10.5,0.661,0.333
+Education,T08,Jasper,Marketing AI,3,10,2.13,5.85,0.364,0.333
+Education,T09,Otter.ai,Meeting Assist,4,20,7.86,9.35,0.841,0.429
+Education,T10,Cursor,Code Assist,1,4,6.77,4.0,1.692,1.0
+Finance,T01,ChatGPT Enterprise,Generative AI,3,27,38.11,34.5,1.105,0.75
+Finance,T02,GitHub Copilot,Code Assist,1,5,10.81,4.75,2.276,1.0
+Finance,T03,Claude Pro,Generative AI,2,8,17.11,8.0,2.139,0.75
+Finance,T04,Notion AI,Productivity,3,12,10.43,6.0,1.738,0.5
+Finance,T05,Midjourney,Image Generation,2,4,5.93,6.0,0.988,0.5
+Finance,T06,Tableau Pulse,Analytics,4,17,13.14,12.0,1.095,0.429
+Finance,T07,Microsoft Copilot,Productivity,1,0,0.5,0.0,0,0.0
+Finance,T08,Jasper,Marketing AI,1,5,4.0,9.75,0.41,1.0
+Finance,T09,Otter.ai,Meeting Assist,2,12,3.84,5.95,0.645,0.5
+Healthcare,T01,ChatGPT Enterprise,Generative AI,3,15,7.63,13.5,0.565,0.2
+Healthcare,T02,GitHub Copilot,Code Assist,1,1,2.35,0.95,2.474,1.0
+Healthcare,T04,Notion AI,Productivity,4,42,31.7,21.0,1.51,0.875
+Healthcare,T05,Midjourney,Image Generation,1,4,4.44,6.0,0.74,1.0
+Healthcare,T06,Tableau Pulse,Analytics,4,10,10.45,7.5,1.393,0.6
+Healthcare,T07,Microsoft Copilot,Productivity,3,31,28.99,36.0,0.805,0.667
+Healthcare,T09,Otter.ai,Meeting Assist,3,28,22.01,22.1,0.996,0.714
+Retail,T01,ChatGPT Enterprise,Generative AI,3,31,34.37,36.0,0.955,0.8
+Retail,T02,GitHub Copilot,Code Assist,2,4,0.0,0.95,0.0,0.0
+Retail,T03,Claude Pro,Generative AI,1,1,0.0,1.0,0.0,0.0
+Retail,T04,Notion AI,Productivity,1,4,0.0,0.5,0.0,0.0
+Retail,T05,Midjourney,Image Generation,4,19,10.33,18.0,0.574,0.429
+Retail,T06,Tableau Pulse,Analytics,1,8,7.85,6.0,1.308,1.0
+Retail,T07,Microsoft Copilot,Productivity,4,24,23.29,25.5,0.913,0.571
+Retail,T08,Jasper,Marketing AI,3,22,24.61,42.9,0.574,1.0
+Retail,T09,Otter.ai,Meeting Assist,1,13,5.76,5.95,0.968,0.5
+Technology,T01,ChatGPT Enterprise,Generative AI,3,26,34.26,33.0,1.038,0.556
+Technology,T02,GitHub Copilot,Code Assist,3,4,6.18,3.8,1.626,0.333
+Technology,T03,Claude Pro,Generative AI,2,17,22.53,14.0,1.609,0.75
+Technology,T04,Notion AI,Productivity,2,12,11.64,6.0,1.94,1.0
+Technology,T08,Jasper,Marketing AI,1,3,2.66,5.85,0.455,1.0
+Technology,T09,Otter.ai,Meeting Assist,2,2,1.02,1.7,0.6,0.5
+Technology,T10,Cursor,Code Assist,4,13,29.8,13.0,2.292,0.667

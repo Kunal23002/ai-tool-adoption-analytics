@@ -1,0 +1,26 @@
+user_key,user_name,industry,role,company_size,region
+U001,Ava Chen,Technology,Data Analyst,201-1000,North America
+U002,Marcus Webb,Healthcare,Operations Lead,1001-5000,North America
+U003,Priya Nair,Finance,Risk Analyst,5000+,Europe
+U004,Diego Alvarez,Education,Instructor,51-200,Latin America
+U005,Sofia Berg,Retail,Merchandiser,201-1000,Europe
+U006,Jordan Lee,Technology,Software Engineer,1001-5000,North America
+U007,Amira Hassan,Healthcare,Clinical Researcher,201-1000,Middle East
+U008,Tomás Silva,Finance,Portfolio Manager,5000+,Latin America
+U009,Hannah Okonkwo,Education,Academic Admin,201-1000,Europe
+U010,Liam O'Brien,Retail,Customer Insights,51-200,Europe
+U011,Mei Lin,Technology,Product Manager,51-200,Asia Pacific
+U012,Carlos Mendes,Healthcare,Nurse Manager,201-1000,Europe
+U013,Elena Petrova,Finance,Compliance Officer,1001-5000,Europe
+U014,Noah Kim,Education,Curriculum Designer,11-50,Asia Pacific
+U015,Rachel Torres,Retail,Store Manager,11-50,North America
+U016,Samir Patel,Technology,ML Engineer,201-1000,Asia Pacific
+U017,Grace Nwosu,Healthcare,Health Informaticist,51-200,Africa
+U018,Oliver Grant,Finance,Quant Analyst,201-1000,Europe
+U019,Yuki Tanaka,Education,Research Assistant,1001-5000,Asia Pacific
+U020,Emma Dubois,Retail,Supply Planner,1001-5000,Europe
+U021,Ben Carter,Technology,DevOps Engineer,51-200,North America
+U022,Fatima Al-Rashid,Healthcare,Physician,201-1000,Middle East
+U023,Lucas Ferreira,Finance,Financial Advisor,51-200,Latin America
+U024,Chloe Martin,Education,Department Head,201-1000,North America
+U025,Nina Johansson,Retail,E-commerce Lead,1001-5000,Europe

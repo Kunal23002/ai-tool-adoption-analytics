@@ -1,0 +1,11 @@
+tool_key,tool_name,category,vendor,monthly_cost_usd,license_type
+T01,ChatGPT Enterprise,Generative AI,OpenAI,30.0,Per Seat
+T02,GitHub Copilot,Code Assist,GitHub,19.0,Per Seat
+T03,Claude Pro,Generative AI,Anthropic,20.0,Per Seat
+T04,Notion AI,Productivity,Notion,10.0,Per Seat
+T05,Midjourney,Image Generation,Midjourney,30.0,Team
+T06,Tableau Pulse,Analytics,Salesforce,15.0,Per Seat
+T07,Microsoft Copilot,Productivity,Microsoft,30.0,Per Seat
+T08,Jasper,Marketing AI,Jasper,39.0,Team
+T09,Otter.ai,Meeting Assist,Otter,17.0,Per Seat
+T10,Cursor,Code Assist,Anysphere,20.0,Per Seat

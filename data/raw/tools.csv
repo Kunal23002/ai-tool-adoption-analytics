@@ -1,0 +1,11 @@
+tool_id,tool_name,category,vendor,monthly_cost_usd,avg_hours_saved_per_use,license_type
+T01,ChatGPT Enterprise,Generative AI,OpenAI,30.00,1.5,Per Seat
+T02,GitHub Copilot,Code Assist,GitHub,19.00,2.0,Per Seat
+T03,Claude Pro,Generative AI,Anthropic,20.00,1.8,Per Seat
+T04,Notion AI,Productivity,Notion,10.00,0.8,Per Seat
+T05,Midjourney,Image Generation,Midjourney,30.00,1.2,Team
+T06,Tableau Pulse,Analytics,Salesforce,15.00,1.0,Per Seat
+T07,Microsoft Copilot,Productivity,Microsoft,30.00,1.4,Per Seat
+T08,Jasper,Marketing AI,Jasper,39.00,1.1,Team
+T09,Otter.ai,Meeting Assist,Otter,17.00,0.9,Per Seat
+T10,Cursor,Code Assist,Anysphere,20.00,2.2,Per Seat
